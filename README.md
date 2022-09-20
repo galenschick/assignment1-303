@@ -6,3 +6,9 @@ The header and cpp file are modular, so the main.cpp function contains the drive
 ## Instructions
 Pass the file name either as a command line argument or input the name after starting the program. A menu will display and you can choose the commands to perform on the array. Type 'N' to move on to the next array in the input file. 
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/18488647/191366494-85654592-9ae1-41ca-a9d3-7f6bda1cbf74.png)
+![image](https://user-images.githubusercontent.com/18488647/191366584-95c93323-a091-4b7b-97ee-b605f7fdc045.png)
+![image](https://user-images.githubusercontent.com/18488647/191366704-591e2684-d312-421b-abc9-ebcbc1647637.png)
+![image](https://user-images.githubusercontent.com/18488647/191366792-0125bd82-fb0b-46f1-a8f2-0f103cbe8ae8.png)
+![image](https://user-images.githubusercontent.com/18488647/191366839-352d437b-81be-49ae-af7b-46aed21ed8c5.png)
