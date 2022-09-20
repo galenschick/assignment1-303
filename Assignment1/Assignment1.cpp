@@ -70,7 +70,8 @@ int main(int argc, char* argv[])
                 cout << "Enter new value: ";
                 cin >> value;
                 try {
-                    replace(index, value, arr); // will throw error if index is less than 0
+                    int oldValue = replace(index, value, arr); // will throw error if index is less than 0
+                    cout << "Replaced " << oldValue << " with " << value << endl;
                     cout << "Array: ";
                     printArray(arr, size);
                 }
