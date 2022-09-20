@@ -1,5 +1,9 @@
 # assignment1-303
 
+## Author
+#### Name: Galen Schick
+#### Email: gasn26@umsystem.edu
+
 ## Description
 The header and cpp file are modular, so the main.cpp function contains the driver code for the program. When run, it will loop through a given file called arrays.txt and prompt the user to perform whatever actions they please with the array. When given the correct command, the program will move on to the next array and repeat until the end of the file.
 
